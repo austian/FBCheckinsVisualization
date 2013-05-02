@@ -1,5 +1,5 @@
-//Asynchonous retrieval of the FB query info off my web server and construction the heatmap from the data
-$.post("http://www.alexustian.com/trending.php",
+//Asynchonous retrieval of the FB query info off my web server and construction of the heatmap from the data
+$.post("http://www.alexustian.com/likes.php",
   function(data)  {
 
     $("#status").text("Done!");
