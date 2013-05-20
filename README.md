@@ -1,7 +1,7 @@
 FBLikesVisualization
 ====================
 
-Number of Facebook likes visualization of restaurants in the Short North neighborhood of Columbus, Ohio.
+Number of Facebook check-ins visualization of restaurants in various neighborhoods of Columbus, Ohio.
 
 Javascript, php, the Facebook API, and the Google Maps API were used in its creation.  
 
