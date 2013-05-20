@@ -1,4 +1,4 @@
-FBLikesVisualization
+FBCheckinsVisualization
 ====================
 
 Number of Facebook check-ins visualization of restaurants in various neighborhoods of Columbus, Ohio.
